@@ -61,7 +61,7 @@ Andrew - Developer of Wave Executor
 
 Moon - Developer of Wave Executor
 
-Otter - Editor of waveexecutor.app
+Otter - Editor of getwave.gg
 
 ## Showcase
 
